@@ -18,7 +18,7 @@ My task in this activity is to update the starter code to create a pacman and mo
  ## Usage
 
 * **#1** When you click the "Add PacMan" button, a new pacman should appear at a random position on the screen. Each additional click generates a new pacman.
-* **#2** When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen. With every cLick on the "Start Game", the speed with which pacmen move increases.
+* **#2** When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen. With every click on the "Start Game", the speed with which pacmen move increases.
 * **#3** When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
  Also, you could check the README.md developed leveraging these sources:
